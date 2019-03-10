@@ -23,7 +23,7 @@ https://play.google.com/store/apps/details?id=br.gov.sp.policiamilitar.ccb.notif
 # Grupos Participantes
 * FogoApagou: https://github.com/193Challenge/challenge
 * Feuerwehrhub:	https://github.com/193Challenge/APRA
-* Red Flag: https://github.com/193Challenge/redflag-app https://github.com/mpcsilva/RedFlag-FINAL2
+* Red Flag: https://github.com/193Challenge/redflag-app https://github.com/193Challenge/redflag_app
 * Rescue Solution: https://github.com/193Challenge/emergency193
 * SAR Brasil: https://github.com/193Challenge/193challenge_backend https://github.com/193Challenge/193challenge_frontendhtml https://github.com/193Challenge/hackerdemo
 
